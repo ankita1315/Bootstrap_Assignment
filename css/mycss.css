@@ -1,0 +1,85 @@
+  #nav {
+  background-color: transparent;
+  }
+  .nav.pull-right {
+      display: inline;
+
+    }
+.ser
+{
+  float: left;
+}
+  .page-header{
+    font-family: 'Frijole', cursive;
+
+    font-size: 30px;
+    font-weight: bolder;
+    margin-bottom: 0px;
+  }
+  .header1{
+  font-family: 'Frijole', cursive;
+  padding-left: 50px;
+}
+
+  .frm
+  {
+    font-size: 12px;
+    font-family: sans-serif;
+  }
+  .container
+  {
+  background-color: #f2f2f2;
+    font-family: 'Bubblegum Sans', cursive;
+    font-size: 18px;
+  }
+
+  .para
+  {
+    font-size: 35px;
+    font-weight: 200;
+    text-align: center;
+    font-family: sans-serif;
+    line-height: 1.4;
+  }
+
+  .para2
+  {
+    text-align: center;
+    font-family: sans-serif;
+    line-height: 1.4;
+  }
+
+  footer{
+    background-color: e6e6e6;
+      margin-left: 60px;
+    clear: both;
+    /*margin-top: 70px;*/
+    padding-top: 30px;
+    padding-bottom: 20px;
+
+  }
+  footer i{
+    float: right;
+    padding-top: -50px;
+    /*padding-bottom: 50px;*/
+
+  }
+
+  .fooicon
+  {
+    padding-bottom: 20px;
+    margin-right: 40px;
+  }
+
+.container-fluid{
+  text-align:center;
+  background-color: #e6ffff
+}
+
+
+.prod_head
+{
+  text-decoration: underline;
+  font-family: 'Inconsolata';
+  font-weight: bolder;
+}
